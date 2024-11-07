@@ -1,0 +1,2193 @@
+{
+  "finality_providers": [
+    {
+      "description": {
+        "moniker": "01node",
+        "identity": "7BDD4C2E94392626",
+        "website": "https://01node.com",
+        "security_contact": "secops@01node.com",
+        "details": "Securely validating one block at a time since 2019"
+      },
+      "eots_pk": "4209feea09cd799cae01a0dfc94a2791cf1701e5e5430ec490b169afdb1cc220",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "0xbojack",
+        "identity": "933397D7278E6F1C",
+        "website": "https://x.com/coder_chao",
+        "security_contact": "coderbojack@gmail.com",
+        "details": "Node Runner"
+      },
+      "eots_pk": "be269d18c63f87af05b6311ed4ecc31bc3ca974b18d7f008cf717a710653c7c4",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "6block.com",
+        "identity": "",
+        "website": "https://6block.com",
+        "security_contact": "contact@6block.com",
+        "details": "Crypto mining and staking solution provider"
+      },
+      "eots_pk": "5c04ad094a9d1fe5c907ba9d15de1baea34345d9f46956b5202ab35b21499eee",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Aguscrypto",
+        "identity": "A9C4F30184F4FC4C",
+        "website": "http://aguscrypto.xyz/",
+        "security_contact": "contact@aguscrypto.xyz",
+        "details": "Aguscrypto acts as a guardian of the Bitcoin network, ensuring its security, integrity, and adherence to Satoshi's vision."
+      },
+      "eots_pk": "30d6852a68e9ee20c8009322ba2eccfba22ca0ae77cbecbe0588ca7ff0fff456",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Alezz1x",
+        "identity": "001B9B1CF102111E",
+        "website": "https://github.com/Alezz1x",
+        "security_contact": "Zeolkaralavias@hotmail.com",
+        "details": "Trusted & Secure Provider"
+      },
+      "eots_pk": "192bbd36ae328338b5c73f836ab9c7c200179eab1c68ae445a8e2149276c4d23",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Allnodes",
+        "identity": "3999DA33020A4DBC",
+        "website": "https://www.allnodes.com",
+        "security_contact": "support@allnodes.com",
+        "details": "Reliable non-custodial Validator run by the industry leader - Allnodes"
+      },
+      "eots_pk": "b08eaaba839a1c36d51a10c74ecf8b23599273469a65a83243348a9fc0bc7605",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Allo",
+        "identity": "",
+        "website": "https://www.allo.xyz",
+        "security_contact": "kingsley@allo.xyz",
+        "details": "Allo is a protocol that facilitates Bitcoin staking and lending"
+      },
+      "eots_pk": "4444a8922b22aaa156fd7d6f3423c581d74156cdccea12fabe98f31d230e463f",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Alysanyan",
+        "identity": "38FBB916D7A8609C",
+        "website": "https://alysan.xyz/",
+        "security_contact": "OblakoGoluboe@hotmail.com",
+        "details": "Secure&Reliable Provider"
+      },
+      "eots_pk": "025b929b8aa77f976bfe5fa4abfc4819b4ce02b6b19cead7b132b90aa02b0986",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "AnchorNode",
+        "identity": "74AF1386843D8345",
+        "website": "https://anchornode.io",
+        "security_contact": "vickyzhu622@gmail.com",
+        "details": "Anchor Node serves as a symbol of blockchain's decentralized architecture."
+      },
+      "eots_pk": "879270978744dece271e953d78959f7aa93459390a8ac58a32eae43a962f89e3",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "AndreasV",
+        "identity": "EDC11262A4B6A0AF",
+        "website": "https://github.com/AndreassaV",
+        "security_contact": "Sweezyloop@hotmail.com",
+        "details": "I have high intention to do the best for the project and bring all my skills to it and provide amazing experience for users as well as for the BBN team"
+      },
+      "eots_pk": "14506535dfdf90d3d83c0b805f9fbffb9013706013910af1ac97452b60203a49",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "AndrewNode",
+        "identity": "1F652346DD4E8A97",
+        "website": "https://andrew-node.notion.site/AndrewNode-dc072d8dc9eb42b8aa83587385f4db45",
+        "security_contact": "didiiiika@outlook.com",
+        "details": "Read my Notion. Please send all requests to e-mail"
+      },
+      "eots_pk": "dbbca84fb3d7cd2ad2fdea3a0b8c9ee8658cdfbcbd21cdf7fbb8d3a767dce538",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Ankr",
+        "identity": "",
+        "website": "www.ankr.com",
+        "security_contact": "mikhail.levin@ankr.com",
+        "details": "Build web3 apps with a full suite of developer tools. Power them with fast, global, decentralized connections to dozens of chains"
+      },
+      "eots_pk": "cc25813bdd6fb8a9c2e343536a917598eebc955e88418e57875dd593eaa05f3c",
+      "commission": "0.10"
+    },
+    {
+      "description": {
+        "moniker": "Anomaly",
+        "identity": "",
+        "website": "",
+        "security_contact": "validatorfm88@proton.me",
+        "details": ""
+      },
+      "eots_pk": "abbeb65aa132350ec53a0fa77ba655d71cec70426c921565eb050454a9fbcb3d",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Antho",
+        "identity": "0C50A24D6D0F5933",
+        "website": "https://antho-blockchain.notion.site/Antho-Blockchain-df05c8b12c1343d7b3b316bf5c76bde6",
+        "security_contact": "Riasnyiandrii@hotmail.com",
+        "details": "Low commission. High uptime"
+      },
+      "eots_pk": "f3e75918646cf0ec53a924d426d73fa8931054f4c6c2457f76afc909eb55649d",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "ArchMsc",
+        "identity": "FE9B8C41E183E423",
+        "website": "https://validator.archmsc.click/",
+        "security_contact": "Ssiruspomble@hotmail.com",
+        "details": "I'm not just a provider, I'm your ally in creating an innovative and secure blockchain future."
+      },
+      "eots_pk": "7546f258e9950881930a791dc45424fcb1dc7ba135545d75d77c91793a8e6a50",
+      "commission": "0.07"
+    },
+    {
+      "description": {
+        "moniker": "B-Harvest/Merkle Alliance",
+        "identity": "8957C5091FBF4192",
+        "website": "https://bharvest.io",
+        "security_contact": "contact@bharvest.io",
+        "details": "Provides secure validation services for dPoS networks"
+      },
+      "eots_pk": "a0cf1cd3a8e2b309dbdccdc8aa82a16c893755bd08b8c4139691f0e38ef4a599",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "BSquaredNetwork",
+        "identity": "",
+        "website": "https://www.bsquared.network/",
+        "security_contact": "contact@bsqaured.network",
+        "details": "The Most Practical Bitcoin Layer-2 Network | The First Bitcoin DA Layer"
+      },
+      "eots_pk": "2f8ec74d558fe7a97d10be230bf1485db9be675228abfbf957ba050c714b679a",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "BSquared_x_Bedrock",
+        "identity": "",
+        "website": "https://www.bsquared.network/",
+        "security_contact": "contact@bsqaured.network",
+        "details": "The Most Practical Bitcoin Layer-2 Network | The First Bitcoin DA Layer"
+      },
+      "eots_pk": "f0427621d40010e09d26b34358a8a4e688f8f8a98303af9815c1341b008fda6a",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "BSquared_x_P2P.org",
+        "identity": "",
+        "website": "https://www.bsquared.network",
+        "security_contact": "cosmos-security@p2p.org",
+        "details": "BSquared Network is the Most Practical Bitcoin Layer-2 Network | the First Bitcoin DA Layer."
+      },
+      "eots_pk": "522c8443813f19a2d9d8d1149f9ba6a8028f778ba5e681ea98b872e17ccb37ef",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Bakerik",
+        "identity": "43536A3F688858DB",
+        "website": "https://bakerik.gitbook.io/bakerik-portfolio",
+        "security_contact": "Yananti@outlook.com",
+        "details": "Validator service for customers"
+      },
+      "eots_pk": "b6edf8de996341a80ef9c990cf331f91af10758a0964245d9f1832646b0d13d1",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Bevm",
+        "identity": "",
+        "website": "https://bevm.io",
+        "security_contact": "0xmassis@gmail.com",
+        "details": "BEVM is the first fully decentralized EVM-compatible Bitcoin L2 that uses BTC as Gas."
+      },
+      "eots_pk": "3e1d931ca6fdd448873da7c5f995b044d3e5641e6981280d8743547c90aaf812",
+      "commission": "0.1"
+    },
+    {
+      "description": {
+        "moniker": "Bitscale",
+        "identity": "",
+        "website": "https://bitscale.vc/",
+        "security_contact": "staking@bitscale.vc",
+        "details": "We invest in teams and solutions that bring transparency and efficiency to our world with cutting-edge technologies"
+      },
+      "eots_pk": "45bed1a1c92575f264c24b06d56c4a3f2421497c06955a7cc007bb3690525edf",
+      "commission": "0.04"
+    },
+    {
+      "description": {
+        "moniker": "BlockHunters 🎯",
+        "identity": "BEAC09B6FE7F908B",
+        "website": "https://blockhunters.org",
+        "security_contact": "ops@blockhunters.org",
+        "details": "Hunt for the best stake. 🏹"
+      },
+      "eots_pk": "1f8ea557fb2684e79a1f971be1e21d99015328c60769d8e27c4c5945a0e2ed6b",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Blockdaemon",
+        "identity": "35892AC552B8A0A8",
+        "website": "https://www.blockdaemon.com",
+        "security_contact": "support@blockdaemon.com",
+        "details": "Blockdaemon provides maximum uptime for the Babylon network so that you can be confident your node will be there, ready and secure, for optimal reward generation. Contact us to stake on Bitcoin today."
+      },
+      "eots_pk": "8380e07bbb271c9811369d20de6f452b9303268bc19cddcc30b1ea20e34ec55c",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Brilee",
+        "identity": "4A4E5A63959D454F",
+        "website": "https://github.com/yutkach",
+        "security_contact": "TKACHENKOYURII@hotmail.com",
+        "details": "Maximum security and professional validation approach - are the things I can give you!"
+      },
+      "eots_pk": "04c2c370cab5dbe83c978462da3c69bb02cfb0db98962b08767fbc6b9002d777",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "CHANGER",
+        "identity": "1247E3A2464E6835",
+        "website": "https://yong.land/",
+        "security_contact": "soaryong.c@gmail.com",
+        "details": "Changer serves as a guardian of truth, ensuring the accuracy and integrity of transactions and records on the blockchain."
+      },
+      "eots_pk": "32009354f274871178dbb4ab7fa789f4a96fea8f0ff5de105b306c046e256769",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Caliber",
+        "identity": "BE9E5DF391D7093E",
+        "website": "https://caliber.build",
+        "security_contact": "devop@caliber.build",
+        "details": "Caliber is a Web3 Venture Builder started by veteran web3 builders and aims to build the next generation of web3 startups with new founders. We consider ourselves a co-founder of each startup & work side-by-side with founders"
+      },
+      "eots_pk": "cdf9a4678bbca14c3e1f2892f15a874122fa2cc372f8b47a558eddbaa2e370e9",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "CalvinJoe",
+        "identity": "D7A3C03A8133833D",
+        "website": "https://vc.ca1vin.one",
+        "security_contact": "dvadcatodinpilot@hotmail.com",
+        "details": "The Best Provider You Can Find"
+      },
+      "eots_pk": "7612ac07938fbfeb12969e26409079e4dacbba7b0781c4a2ad13c4e57ab50b4a",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Caroliner",
+        "identity": "2F9AF2334C50CA57",
+        "website": "https://caroline.joseannahav.space",
+        "security_contact": "LevTolctoy@hotmail.com",
+        "details": "Services for decentralised networks."
+      },
+      "eots_pk": "7a14b33a7462ecf1bcdb135792dab723be0778f60ef317642539be9e9bc358bb",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "ChainUp",
+        "identity": "986C0C86F27510DE",
+        "website": "https://www.chainup.com/",
+        "security_contact": "randd@chainup.com",
+        "details": "ChainUp is an enterprise-grade blockchain and web3 development firm."
+      },
+      "eots_pk": "31287a9728f7b11863b9c56fc4cca103f0473dcdc6746ed7f79050d3adff644b",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Chainlabel",
+        "identity": "18FD045E81C560F8",
+        "website": "http://chainlabel.net",
+        "security_contact": "info@chainlabel.net",
+        "details": "We safeguards the the blockchain with Immutable Ledger node."
+      },
+      "eots_pk": "1f29b05c07dce241310eaa3dbdb5315dfb1977fbc06284244f4d85c7d77836b1",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Chakra",
+        "identity": "",
+        "website": "https://chakrachain.io",
+        "security_contact": "fp@chakrachain.io",
+        "details": "The first Modular Settlement Network backed by @StarkWareLtd & Bitcoin OGs"
+      },
+      "eots_pk": "f9786ffe8735b2d81d56a2aa8f3cc5bc9f73e889fbd9d73a3ce76e324ce661e4",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Clark",
+        "identity": "",
+        "website": "https://github.com/clark-clark",
+        "security_contact": "ysmenkokatarina@hotmail.com",
+        "details": "Expert in blockchain"
+      },
+      "eots_pk": "024d78058b68bf1981f04f7a4dbfd9dbc3e6ecf8e8c2945f8b07d004914a646d",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Cobo",
+        "identity": "3B7C85200D5B57A9",
+        "website": "https://www.cobo.com/",
+        "security_contact": "security@cobo.com",
+        "details": "Cobo is a trusted custody and wallet infrastructure provider that simplifies digital asset security. We empower organizations and developers to innovate and scale their blockchain businesses with ease."
+      },
+      "eots_pk": "ef21fbe4f755892724c2fd7b00abe94bfcc6a965b7a84bcf087bb7d9529bc627",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "CoinSummerLabs",
+        "identity": "74d57b2827b0286719fc4ce2938ba410ea28b7e2",
+        "website": "https://coinsummer.io",
+        "security_contact": "k@coinsummer.io",
+        "details": "Backed by crypto-native degens, CoinSummer is a trusted liquidity provider, staking validator, and AVS operator supporting the crypto and DeFi evolution."
+      },
+      "eots_pk": "ee2a3d3750853f44a0cc4988c3432c37e8acca9557607fa5f9510ca539d8671f",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Coinage x DAIC",
+        "identity": "C92C6965D89F07A3",
+        "website": "https://daic.capital",
+        "security_contact": "office@daic.capital",
+        "details": "The official validator node from Coinage (Coinage.Media) and DAIC (https://daic.capital/telegram)"
+      },
+      "eots_pk": "61d437bcff4512e45075b5c12fc9b0ececd3e7c87512e0d7fb599c3a28e2671c",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "ColdLar",
+        "identity": "766EDB4FCF1D7DC5",
+        "website": "https://www.coldlar.com",
+        "security_contact": "staff@coldlar.com",
+        "details": "ColdLar is a world-leading provider of hardware wallet services, specializing in encrypted asset storage solutions."
+      },
+      "eots_pk": "1ddeb3ec130bbab757e3ed46a977116ac2a5869f2b8407d7b8e24eb5aa310ae7",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "ContributionDAO",
+        "identity": "3034BD2560DD86B4",
+        "website": "https://contributiondao.com",
+        "security_contact": "security@contributiondao.com",
+        "details": "Secure Network with Institutional-Grade Solution"
+      },
+      "eots_pk": "74d8171df05860f95f5a63f27bc81a81a178d4a0f32b24fa5abcfb3a4198574e",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "CosmosSpaces",
+        "identity": "06B033BAC39DA21C",
+        "website": "https://cosmosspaces.zone",
+        "security_contact": "security@cosmosspaces.zone",
+        "details": "Bare Metal Validators, Relayers, and RPC providers. Top tier infrastructure providers rooted in the Cosmos community."
+      },
+      "eots_pk": "9a5e201fe1c1d381457d9d57689673e871641183ab69ce92f6723e883de4be53",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Cosmostation",
+        "identity": "AE4C403A6E7AA1AC",
+        "website": "https://www.cosmostation.io",
+        "security_contact": "node@stamper.network",
+        "details": "Cosmostation is an institutional-grade cryptocurrency infrastructure provider, managing billions of dollars across 70 protocols. Since 2018, we have served more than 500k users globally, providing products that enable protocols to scale."
+      },
+      "eots_pk": "17167ce2e362080c11e580d4d34f34b8e73ac9f84545dcf391ae56056dc9c32f",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Cronus",
+        "identity": "3C5FDBFE2364DDB8",
+        "website": "https://cronusb.site/",
+        "security_contact": "samkisanaz73@gmail.com",
+        "details": "Trusted Validator Since 2021"
+      },
+      "eots_pk": "aeddb4062fff7d79ce306af370de7890dbb7c6e5ed692ce443b268b2ed08ca1b",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "CroutonDigital",
+        "identity": "47B453B80ECFA342",
+        "website": "https:/crouton.digital",
+        "security_contact": "official@crouton.digital",
+        "details": "Your everyday crypto partner"
+      },
+      "eots_pk": "ada2702bfad3d65c4b16893134a95f0aa7f9b19ae13cf0178ac249c8e1f7c576",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "✅ CryptoCrew",
+        "identity": "9AE70F9E3EDA8956",
+        "website": "https://ccvalidators.com",
+        "security_contact": "support@ccvalidators.com",
+        "details": "Secure BTC staking with CryptoCrew. We power the interchain. t.me/cryptocrew_validators"
+      },
+      "eots_pk": "84b63c04789c992aec4979599d94245721ec74ffa4474380121f1446be12d2c6",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "DSRV",
+        "identity": "CC434B6FE536F51B",
+        "website": "https://dsrvlabs.com",
+        "security_contact": "validator@dsrvlabs.com",
+        "details": "DSRV is an integrated blockchain solutions company with the mission of enriching the crypto ecosystem via stronger connectivity. We strive to be your gateway to a suite of all-comprehensive blockchain services. Everything distributed, served complete."
+      },
+      "eots_pk": "086fe422ec074cb64d7b06eeca4bf985f532eb32dcf8172402b5cb604d7c9a29",
+      "commission": "0.10"
+    },
+    {
+      "description": {
+        "moniker": "Decentr",
+        "identity": "FD3C0BCE9D7F7CF5",
+        "website": "https://decentr.net",
+        "security_contact": "yann.w3217@gmail.com",
+        "details": "Decentr maintain a distributed ledger, a shared copy of the blockchain's transaction history."
+      },
+      "eots_pk": "59f19690c77004d0f4222c628cb5270e5a7a5c171987e89e33ba18d3e1a28abc",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "DevinHPBR",
+        "identity": "58CDBA8927F0BC5E",
+        "website": "https://doc.devin-h.pics",
+        "security_contact": "wirtremorbear@hotmail.com",
+        "details": "Experts in blockchain, network security, and system administration"
+      },
+      "eots_pk": "f8b05372ef329f6d547655e96216b908947a13443aa7a7a7824f19a85134b3ac",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "DonaldM",
+        "identity": "864103F115B13F58",
+        "website": "https://github.com/donald-big-m",
+        "security_contact": "onishchenkotetyana@hotmail.com",
+        "details": "On the protection of your stake"
+      },
+      "eots_pk": "10a19dc89c2b406ac896aa1238909dc0f342b0edba6d148ac10bfa995942fc8a",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Dremling",
+        "identity": "67667CE782BDD772",
+        "website": "https://github.com/Dremling",
+        "security_contact": "Bonjornobaharno@hotmail.com",
+        "details": ""
+      },
+      "eots_pk": "179242a8f9905ece46d1051c0e442731a98e752764cf3fd688dc9376fd938229",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Enigma",
+        "identity": "6223697ACA24A4FF",
+        "website": "https://enigma-validator.com/",
+        "security_contact": "contact@enigma-validator.com",
+        "details": "Highly secure professional validator across 40+ chains - offering a full refund for any downtime slashing - Reach out to us at contact@enigma-validator.com"
+      },
+      "eots_pk": "ac53903a0912689060abe4d79965b4cdba40fc98a5cfbd315f31f5c1791cbe75",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "EquinoxDAO",
+        "identity": "048733E2C6061B87",
+        "website": "https://www.equinoxdao.xyz",
+        "security_contact": "wangzhaozhu1@gmail.com",
+        "details": "professional Node Service Provider by EquinoxDAO"
+      },
+      "eots_pk": "04439d165b72bac13c16a22744a55cb249615b23b769fc393188cd4eed33f189",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Everstake",
+        "identity": "EF5AC70C00BECEDC",
+        "website": "https://everstake.one",
+        "security_contact": "account-babylon@everstake.one",
+        "details": "Everstake is a staking-as-a-service company. We help institutional investors and regular token holders to profit off their crypto assets. Choose the most promising projects, delegate with Everstake, and make a stable passive income."
+      },
+      "eots_pk": "5f61c6a51d91a8cf09f0edfb3d539a8749a0cab2829d52f7c6f028fed7455278",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "FTPFProvider",
+        "identity": "7F770DBD8E989AEE",
+        "website": "https://solodan.xyz",
+        "security_contact": "agency.switchtarget@gmail.com",
+        "details": "FTP finality provider is managed by the founders of our web3 community, in case you have any question please visit @ftp_crypto, or contact @daniel_solo directly."
+      },
+      "eots_pk": "756a26562404ba1ffb87fd826006dc258520a74ccd691c27f6890bae748be322",
+      "commission": "0.10"
+    },
+    {
+      "description": {
+        "moniker": "Figment",
+        "identity": "E5F274B870BDA01D",
+        "website": "https://figment.io",
+        "security_contact": "security@figment.io",
+        "details": "Figment is the complete staking solution for over 500 institutional clients, providing enterprise validators, seamless staking integrations, audited infrastructure, robust rewards data, and more."
+      },
+      "eots_pk": "710104ee21393df7b209e7f1202b60425075160aea52b60a9bcb0e996771f069",
+      "commission": "0.1"
+    },
+    {
+      "description": {
+        "moniker": "Freelander",
+        "identity": "E944FF1F86591C63",
+        "website": "https://github.com/Free1ander",
+        "security_contact": "orowelantina@hotmail.com",
+        "details": "Trusted Provider"
+      },
+      "eots_pk": "f337478964fb405e58226cd3e8e7e03d384c651b91b3827ec940ce0247b6d052",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Freytara",
+        "identity": "4C86ACE40AA4591B",
+        "website": "https://freya.lol/",
+        "security_contact": "matinamohseni467m@gmail.com",
+        "details": "Experienced noderunner & validator"
+      },
+      "eots_pk": "3780023f58b2d75a98f0f0558040788e4b9bcfd89e7843c48af31490cf4d2c4d",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "GalaxyDigital",
+        "identity": "1718CFB46A0EC7FA",
+        "website": "https://galaxy.com",
+        "security_contact": "bci@galaxy.com",
+        "details": "Galaxy is a digital asset and blockchain leader helping institutions, startups, and qualified individuals shape a changing economy."
+      },
+      "eots_pk": "acc2ddfdaaa3ca7acc13340c22a25dd910b98c08ba789ba5d8dac98e2f721cf9",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Gigglyn",
+        "identity": "FA44393306BE59C8",
+        "website": "https://gigglyn.gitbook.io/gigglyn/",
+        "security_contact": "BeniukBohdanRomanovich@hotmail.com",
+        "details": "Always online"
+      },
+      "eots_pk": "94b1846df7f7ace5358287bb0644190a964784d5f80dbd2a8d850d4d0224cde5",
+      "commission": "0.07"
+    },
+    {
+      "description": {
+        "moniker": "Guzel",
+        "identity": "E7838830DB3FBE6D",
+        "website": "",
+        "security_contact": "GuzelKhvan@outlook.com",
+        "details": "Professional PoS Validator"
+      },
+      "eots_pk": "cba5e7c2c7351f4050610d94489e7f720a5b518c5dda2e408ab98ae1b6d9d6b2",
+      "commission": "0.07"
+    },
+    {
+      "description": {
+        "moniker": "HTX",
+        "identity": "",
+        "website": "https://www.htx.com/",
+        "security_contact": "huobi-pos@outlook.com",
+        "details": "As a world-leading company in the blockchain industry, HTX Group was founded in 2013 with a mission to make breakthroughs in core blockchain technology and the integration of blockchain technology to other industries."
+      },
+      "eots_pk": "bb90cbe7d0afb84fda8b4d440ddce1a394878a32aad29929c86e0e9188b003ba",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "HamzaK",
+        "identity": "F73B0C8545FB882C",
+        "website": "https://hamzak.click/",
+        "security_contact": "gvozdaryovalarisa@hotmail.com",
+        "details": "Building Web3 Future Together"
+      },
+      "eots_pk": "280a088c2d545b8baf38541b7238313aa07979d753bf52d2c9203d7b5c456a5e",
+      "commission": "0.07"
+    },
+    {
+      "description": {
+        "moniker": "Haris",
+        "identity": "AF6BB2D53342C6B8",
+        "website": "https://github.com/Mernajop",
+        "security_contact": "kolesnikovevgenysergeevich@hotmail.com",
+        "details": "Providing the best services and highest uptime for the Babylon project as a finality provider"
+      },
+      "eots_pk": "811fd18c6cfa032605c5953c0eab93781621731b639e4146fd43541e08ff6eff",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "HeatherYOLO",
+        "identity": "73EF1D15957FD7D0",
+        "website": "https://portfolio.heatheryo.lol/",
+        "security_contact": "Joelryexp@hotmail.com",
+        "details": "Professional solo validator"
+      },
+      "eots_pk": "2304149992e6e939be579514f933a2c186d34ba509b1ecd3a1f6c1caa0293552",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "Hex Technologies",
+        "identity": "DEA21069031BB3F4",
+        "website": "https://hextrust.com",
+        "security_contact": "security@hextrust.com",
+        "details": "Hex Trust is a fully licensed digital asset custodian dedicated to providing solutions for protocols, foundations, financial institutions, and the Web3 ecosystem."
+      },
+      "eots_pk": "289719ef19e455816e474588007f1824df7f6b1bace7decf8bb1c435e4cb849e",
+      "commission": "0.10"
+    },
+    {
+      "description": {
+        "moniker": "HoodRun",
+        "identity": "D7F99CBB63FFFD9E",
+        "website": "https://hoodrun.io",
+        "security_contact": "contact@hoodrun.io",
+        "details": "Discover and Unlock the HoodRun Advantage; We make the Staking Experience the fastest and safest"
+      },
+      "eots_pk": "67732ad150b6bd773f24d250be3c65c6a7aff77abbd1ed4196b8f889374dda8a",
+      "commission": "0.04"
+    },
+    {
+      "description": {
+        "moniker": "Huginn",
+        "identity": "D27EE330254D4F6A",
+        "website": "https://huginn.tech",
+        "security_contact": "stake@huginn.tech",
+        "details": "Professional staking service. 7/24 monitoring and best uptime. Huginn is an organization that aims to teach its community about Cosmos SDK and Blockchain."
+      },
+      "eots_pk": "3c6f137ef7fe2df8fd1e348c9de06eded5cb75393175c3d159090341f203f964",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Hype INFRA",
+        "identity": "E83C7B8E58DC11E0",
+        "website": "https://www.hy.pe/",
+        "security_contact": "infra@hype.partners",
+        "details": ""
+      },
+      "eots_pk": "545fd0b6b9ec8eb27f98d47ce307696b8db0b01cda64471377a02e64fbc5672d",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "InfStones",
+        "identity": "E9B7CDC7623E0327",
+        "website": "https://infstones.com/",
+        "security_contact": "support@infstones.com",
+        "details": "InfStones is committed to supporting a wide range restaking initives."
+      },
+      "eots_pk": "911421ea9cd3107d81aef2a62bf04d7a3c57b7bc0462af668d0a332e5dd72fa8",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Informal Systems",
+        "identity": "6408AA029ADBE364",
+        "website": "https://informal.systems",
+        "security_contact": "validator@informal.systems",
+        "details": "Informal Systems - Enterprise-grade staking infrastructure with a focus on security and support for both networks and delegators since 2018."
+      },
+      "eots_pk": "68db13ba45241bcc1db1e63d998d78d9fce4b3f42772ef355e007a1105100476",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "InfraSingularity",
+        "identity": "62ECC4FAFB20EB61",
+        "website": "https://infrasingularity.com",
+        "security_contact": "contact@infrasingularity.com",
+        "details": "InfraSingularity aims to radically transform the Web3 ecosystem as a pioneering Web3 Investor, and builder."
+      },
+      "eots_pk": "192308b034f9ae5b8de60ca0d807834773ca5f077960dfc22998096bc08d8bd9",
+      "commission": "0.10"
+    },
+    {
+      "description": {
+        "moniker": "JBrandon",
+        "identity": "BC8C3BDC4E653C09",
+        "website": "https://github.com/TempGROX",
+        "security_contact": "Ternovodafone@hotmail.com",
+        "details": ""
+      },
+      "eots_pk": "cf3d7c13fd691e880e318fda33aae7481302dab7340e9c3d5543b5e5571c202d",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "JMalone",
+        "identity": "D6C31BB8315F0D95",
+        "website": "https://jm.frayken.lol",
+        "security_contact": "pakideabdollah0@gmail.com",
+        "details": "🔒 Security at the highest level"
+      },
+      "eots_pk": "6844f30a9d46e0001cedb3c7feb3edc3ca144924df88b46de15345bb2599c0f8",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Jetking",
+        "identity": "",
+        "website": "https://www.jetking.com",
+        "security_contact": "devops@jetking.com",
+        "details": "India’s largest IT Training Institute"
+      },
+      "eots_pk": "3742769a01da6c7c4537ad7a4e181392ab3fd1fe04c78c137937974e74b39044",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Jonygel",
+        "identity": "0CA0C7A0E12E3806",
+        "website": "https://private.jonygel.online",
+        "security_contact": "postovical@outlook.com",
+        "details": "High quality provider"
+      },
+      "eots_pk": "39ac47bebe7e4c5c3c88b5acdf3c3d0140853e594b884612876e073d178c9510",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "Kennethy",
+        "identity": "3FCFF87D2F2CFCDD",
+        "website": "https://kennethy-validator.notion.site/Kennethy-Node-Operator-Portfolio-f54cabd9a69c4d0897077656f3b64209",
+        "security_contact": "boyko.bogdan@hotmail.com",
+        "details": "Super Efficient Provider"
+      },
+      "eots_pk": "71064015f3e9063d1bbfb5eee512f382cf7fc3a02a8b4325b80f3d3bc2980262",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "Kryz",
+        "identity": "DEAC37589FE4AA99",
+        "website": "https://kryz-chain.notion.site/Kryz-1124994767164ba29d8df43dbaccabb3?pvs=4",
+        "security_contact": "kryzhanovskiy.mikhail@outlook.com",
+        "details": "I’m Kryz, a dedicated self-validator and blockchain enthusiast focused on advancing decentralized technologies."
+      },
+      "eots_pk": "e2ad1fc33c581bbbd7fd11ecb5cbb1efb512a20d4d68c7b2119a6d571c30afc8",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "KudasaiJP",
+        "identity": "8053B9A8E7E4C20E",
+        "website": "https://kudasai.co.jp",
+        "security_contact": "validator-dev@kudasai.co.jp",
+        "details": "KudasaiJP/Omakase is a professional staking and validation service. We also contribute to innovative projects via marketing and development support."
+      },
+      "eots_pk": "742f1eb3c7fdbd327fa44fcdddf17645d9c6b1287ea97463e046508234fa7537",
+      "commission": "0.10"
+    },
+    {
+      "description": {
+        "moniker": "LeverFi",
+        "identity": "",
+        "website": "https://www.leverfi.io",
+        "security_contact": "ops@leverfi.io",
+        "details": "LeverFi delivers high performance, world-class liquidity infrastructure for users in the Bitcoin and global Web3 ecosystems."
+      },
+      "eots_pk": "d5a24af7db075788a0fe6bf236ec2891673ea87f665402e300b79b25b310d262",
+      "commission": "0.035"
+    },
+    {
+      "description": {
+        "moniker": "Lombard",
+        "identity": "",
+        "website": "https://lombard.finance",
+        "security_contact": "stanley@lombard.finance",
+        "details": "Lombard is dedicated to expanding the digital economy by transforming Bitcoin’s utility from a mere store of value into a productive financial tool."
+      },
+      "eots_pk": "609b4b8e27e214fd830e69a83a8270a03f7af356f64dde433a7e4b81b2399806",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Lopez",
+        "identity": "81B08637DE4A9927",
+        "website": "https://github.com/Yserdych",
+        "security_contact": "Yulia_Serdychenko@hotmail.com",
+        "details": "Crypto-activist & node operator"
+      },
+      "eots_pk": "e2fcc437dce7779ec5c95f2ecf2429b16e207bf9efa52274ed5c8dd57caafdd0",
+      "commission": "0.07"
+    },
+    {
+      "description": {
+        "moniker": "Lorenzo",
+        "identity": "",
+        "website": "https://www.lorenzo-protocol.xyz/",
+        "security_contact": "vincent@lorenzo-protocol.xyz",
+        "details": "Bitcoin Liquidity Finance Layer"
+      },
+      "eots_pk": "db9160428e401753dc1a9952ffd4fa3386c7609cf8411d2b6d79c42323ca9923",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Luganodes",
+        "identity": "4F2E11CB85CB269B",
+        "website": "https://luganodes.com/",
+        "security_contact": "devops@luganodes.com",
+        "details": "Swiss-Operated Institutional Grade Staking Provider"
+      },
+      "eots_pk": "104628a84d0926b866e94c35b54e6dc548cbdb4d8db39e48e85e3f1ff53c60ed",
+      "commission": "0.10"
+    },
+    {
+      "description": {
+        "moniker": "MarkCN",
+        "identity": "B4749DEE24418182",
+        "website": "https://markcn.cloud/",
+        "security_contact": "asadynazanin06@gmail.com",
+        "details": "Best service Provider"
+      },
+      "eots_pk": "6280c55428893eda00563660f4d70d6105ff1cbb7bd00aafc743c4230f1b1966",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "Martezoy",
+        "identity": "",
+        "website": "https://martezoy.gitbook.io/martezoy",
+        "security_contact": "pryiatelchukvladyslavoleks@hotmail.com",
+        "details": "Martezoy - qualified node runner/provider"
+      },
+      "eots_pk": "4249e79889ec2cd59d30eebab74f53e7d9f019e9ea1f38b4ac47305d4b6ea6e3",
+      "commission": "0.07"
+    },
+    {
+      "description": {
+        "moniker": "MattWhew",
+        "identity": "5DEB0D19723BF8F4",
+        "website": "https://mattw.buzz/",
+        "security_contact": "Centaurionsama@hotmail.com",
+        "details": "The Best Provider!"
+      },
+      "eots_pk": "9672f389ad2222d42fc61f4b3fb986efde375ccdc6df3cadeac2a759c9dba88a",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Meria",
+        "identity": "9A516A1CD4116BBF",
+        "website": "https://meria.com",
+        "security_contact": "it@meria.com",
+        "details": "Meria is an institutional-grade staking service provider running blockchain infrastructure on more than +35 networks."
+      },
+      "eots_pk": "a1f39ed29581fb6ad54be8cdf1a8838b3429e87bdfdd2652c47946221c360f10",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "MitchelNodes",
+        "identity": "A089D966C935BE06",
+        "website": "https://github.com/MitchelNode",
+        "security_contact": "zalmanfanat@outlook.com",
+        "details": "Babylon Professional Provider"
+      },
+      "eots_pk": "452dddaad4f2ec6f910e280c41023ce2eda02b9886ee422d73e58bc7491697c7",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "Moonmoonbird",
+        "identity": "",
+        "website": "",
+        "security_contact": "biansongyuan@gmail.com",
+        "details": ""
+      },
+      "eots_pk": "fdf1dd190adcd4fbf96235db721714e81bbfc2384b55de6cee256bcde11bedbb",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Nelson",
+        "identity": "",
+        "website": "https://mirror.xyz/0x4cF94AAAeE2Fa5394Fc3aE7eD2C952860a0e9267",
+        "security_contact": "BogdanDombrovskyi@hotmail.com",
+        "details": "Secure provider for your staking. Support 24/7 by email"
+      },
+      "eots_pk": "9499bbade867bbf5c50569d0b58f30ed051f61cd9bd025675e68ca18cec43fad",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Nevermore",
+        "identity": "35F279314AFA3EEF",
+        "website": "https://stellar-lock-286.notion.site/Nevermore-9012a2ea472841efbe0b33329cf01b72",
+        "security_contact": "tonariplata@hotmail.com",
+        "details": "Professional Validator | Blockchain Enthusiast | Security Advocate"
+      },
+      "eots_pk": "dc0e25796f7812be56b3752a74d1b17bb1d6af5f5db7096f80a6f38286b8a4da",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "NihilS",
+        "identity": "9F472E352381228C",
+        "website": "https://github.com/NihilSupernum",
+        "security_contact": "tahsinm907@gmail.com",
+        "details": ""
+      },
+      "eots_pk": "936527c1939daad1c62750d8e6530047072079be5a1b4e90f85547933c9ef5f8",
+      "commission": "0.07"
+    },
+    {
+      "description": {
+        "moniker": "NodeStake",
+        "identity": "94EFE192B2C52424",
+        "website": "https://nodestake.org",
+        "security_contact": "info@nodestake.org",
+        "details": "NodeStake is the professional validator, infrastructure provider and IBC relayer."
+      },
+      "eots_pk": "904797a87def7180c58b6d016a00e18a2736aa0f7ec05696ab5f08440e1a5150",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Nodeinfra-Decenter",
+        "identity": "81397DB8B13AAE2F",
+        "website": "https://nodeinfra.com",
+        "security_contact": "security@nodeinfra.com",
+        "details": "Trusted Korean validator partnered with top Korean crypto media"
+      },
+      "eots_pk": "a1f8176fef4f689bfa5f4704255cc566562a13de6f1f1e546413d46aa4dd6f64",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Northtrend",
+        "identity": "1638FF44773987BD",
+        "website": "",
+        "security_contact": "nerverrastinata@hotmail.com",
+        "details": ""
+      },
+      "eots_pk": "1ee90d0e3b3565dfcdaa59768f107c76ff064594e3998cd64a67f13a8aba5ae2",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Oldenzel",
+        "identity": "3CFAB60795F8503B",
+        "website": "https://oldenzel.xyz/",
+        "security_contact": "yuimmlarik@hotmail.com",
+        "details": "Your dream noderunner"
+      },
+      "eots_pk": "9248aa0b88f8d409f9eb3d003f5591a2fdf23691efc81f00e3ae50b3ade4f68b",
+      "commission": "0.07"
+    },
+    {
+      "description": {
+        "moniker": "OneKey",
+        "identity": "",
+        "website": "https://onekey.so",
+        "security_contact": "dev@onekey.so",
+        "details": "OneKey - Fully open source crypto app and hardware wallet, backed by Coinbase Venture, Ribbit, Dragonfly and other prominent crypto funds."
+      },
+      "eots_pk": "adf4dcff7e38feef6689f42a4d6ac65446740b3bec13909200cf88a25f4cbc94",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "OrangeCode0",
+        "identity": "6E2B94FD0B83947E",
+        "website": "",
+        "security_contact": "RuarccAlgautr@proton.me",
+        "details": "Hammu's  Cryo Dreams"
+      },
+      "eots_pk": "13e8eaec4f96eba1ae6c5bb05621e091c48b3bee21bf2e18183fd0663cc4ac5d",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "OrangeBob",
+        "identity": "3A4D5732E464C7BD",
+        "website": "https://val.orangebob.buzz",
+        "security_contact": "erhamreza3@gmail.com",
+        "details": "High uptime & Low commision"
+      },
+      "eots_pk": "2c961b25702189ebeac186b087a122998be2cdebb2845f70477d061de2123f2d",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "P2P.org",
+        "identity": "E12F46954695036D",
+        "website": "https://p2p.org/",
+        "security_contact": "cosmos-security@p2p.org",
+        "details": "P2P.org is a leading platform for whitelable staking infrastructure and staking solutions for enterprise and intermediaries. Stake your BTC with the most trusted and secure validator in the market."
+      },
+      "eots_pk": "d7442b3c1b2c85313f9440a0a0e783f5d56390bd2e9044bb4e10c48e6b6d5536",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "PRO Delegators",
+        "identity": "44771D06A00DD695",
+        "website": "https://pro-delegators.com",
+        "security_contact": "contact@pro-delegators.com",
+        "details": "Advanced Node Services for Professional Delegators"
+      },
+      "eots_pk": "e8a3ef3ca40ade56bd986663f24d5ab3bcc3cd18a88a10a8cd25d8af42314f62",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "PierTwo",
+        "identity": "",
+        "website": "http://piertwo.com/",
+        "security_contact": "admin@piertwo.com",
+        "details": "Australian based enterprise grade infrastructure for institutional clients. Non custodial ETH Staking. Secure Node and Validation Services. Creating the light client Lantern (C Sharp)."
+      },
+      "eots_pk": "6788b40df1c63023711fd01168e9a8644c4a5ac27a6d4fd2f7ca4fe7bdd290f0",
+      "commission": "0.10"
+    },
+    {
+      "description": {
+        "moniker": "Provalidator",
+        "identity": "3A7D5C9B0B88BEA1",
+        "website": "https://provalidator.com",
+        "security_contact": "zenon@provalidator.com",
+        "details": "Supporting Blockchain Infrastructure"
+      },
+      "eots_pk": "5177889c5509814722828fb18bafb2b518ef02ac68bbc30e4f795f7d8eaf3fd7",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "PumpBTC",
+        "identity": "CAAE6F147CA9D28E",
+        "website": "https://pumpbtc.xyz",
+        "security_contact": "josechef@pumpbtc.xyz",
+        "details": "PumpBTC is a liquid staking protocol on Babylon to allow BTC HODLER to maximize yield."
+      },
+      "eots_pk": "0f5c19935a08f661a1c4dfeb5e51ce7f0cfcf4d2eeb405fe4c7d7bd668fc85e4",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "ROCKMINER",
+        "identity": "",
+        "website": "",
+        "security_contact": "tangyinghualove@gmail.com",
+        "details": "We with experienced technical staff, blockchain researchers and community operators."
+      },
+      "eots_pk": "155537b908560545398a4801960446ab289fde41503ef6362ce367c261f6d567",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Renderlynx",
+        "identity": "858CFD395B18E495",
+        "website": "https://x.renderlyn.xyz",
+        "security_contact": "Renderl4nxer@hotmail.com",
+        "details": "Node operator, miner and validator"
+      },
+      "eots_pk": "8eb8b2eaec6c80a74b1318f61e3a34ce6e801f68617dd24b4ba4017a7fa2cc4d",
+      "commission": "0.07"
+    },
+    {
+      "description": {
+        "moniker": "Restake",
+        "identity": "98EC2DBC23F1B764",
+        "website": "https://restake.net",
+        "security_contact": "security@restake.net",
+        "details": "Effortless staking with institutional standards"
+      },
+      "eots_pk": "c1f57e1d27ab9f4c21e8e4a620f05fde3dae09834cd0620f568fe30832171f76",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "RickyChez",
+        "identity": "373472AA987738BD",
+        "website": "https://github.com/RickyChez",
+        "security_contact": "triviumgrennys@hotmail.com",
+        "details": "We focus our work on blockchain security, double signing prevention, redundancy, monitoring, backup."
+      },
+      "eots_pk": "932cd37ff514d8e8d1db8e4c308a6ef9e4be85d3857aafb92dd72a5faa27d02d",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Robinbobin",
+        "identity": "",
+        "website": "https://github.com/RobinBobinChain",
+        "security_contact": "GudanovaAngelinaMy@hotmail.com",
+        "details": "Validator Management. Node Deployment. Security and Scalability. Community Participation."
+      },
+      "eots_pk": "2f607d187acee1bc27a2f45bd20912c649e9d122852291dc8cb310414b07a613",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "Robsberry",
+        "identity": "27054F5CE3F4B80A",
+        "website": "https://docs.robsberry.pics",
+        "security_contact": "meldevariata@hotmail.com",
+        "details": "👉Independent Validator👈"
+      },
+      "eots_pk": "d5018f048b88f1492404a06fedefe3a88f83337dc6c2b1e418cfab330a6fbc89",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "RockX-Bedrock",
+        "identity": "A15B586AB203F14E",
+        "website": "https://bitcoin-staking.rockx.com/",
+        "security_contact": "staking@rockx.com",
+        "details": "The largest Asian-based institutional grade staking and RPC provider."
+      },
+      "eots_pk": "bb0bceda25d82f10a69feca9c076d85f61d750c9a481b8105d8389325538fdd1",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Romario",
+        "identity": "FD598806290FFA08",
+        "website": "https://roma-mario.notion.site/About-Me-3f6cf3106f5b4bf783efed48e47a5cd9",
+        "security_contact": "aweriatanjiro@hotmail.com",
+        "details": "Dedicated enthusiast of blockchain and web3 technologies."
+      },
+      "eots_pk": "53ea1dc22055f1b83ca0fd99752a15978b57855951c4b48886d0c5cbb87a6442",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "RozaS",
+        "identity": "AD0C97CE3B53C99D",
+        "website": "https://github.com/SerdhRo",
+        "security_contact": "Serdyuchenko.Roza@outlook.com",
+        "details": "Here to offer my knowledge and professionalism for BBN community"
+      },
+      "eots_pk": "a62e14b28abfcfd139451de57b312c78791c15f9dccfe446722b625521ea57ad",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "Ruslan",
+        "identity": "",
+        "website": "https://github.com/RuslanKhvan",
+        "security_contact": "Ruslan.Khvan@outlook.com",
+        "details": "Individual validator"
+      },
+      "eots_pk": "5911998af111155e251481acc5af15327658e83cdc3fab178902451a47590d81",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "RuthWright",
+        "identity": "557AEA1DF910FD23",
+        "website": "https://github.com/RuthWright",
+        "security_contact": "anondjovia57@gmail.com",
+        "details": "Experts in noderunning"
+      },
+      "eots_pk": "918248e800994350b1db8ab096e6b5fd1dbdfb288a2199f2f1ab45087cbc2d69",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "SandMan",
+        "identity": "0D01E33D7DBEF9B2",
+        "website": "https://sand.chessman.buzz",
+        "security_contact": "banscorporation@hotmail.com",
+        "details": "Ready to provide!"
+      },
+      "eots_pk": "8cc1ac9171375b76a01b28d329e593df93c3266decd80cdf6f04e03968dfa173",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "senseinode",
+        "identity": "",
+        "website": "https://senseinode.com",
+        "security_contact": "infra@senseinode.com",
+        "details": "Institutional Grade Staking as a Service"
+      },
+      "eots_pk": "ae41630bcd400338c0fcabf7f2c174a2d2539c7f9333ed0b79159ad1e2ab01c6",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Sergenode",
+        "identity": "6526975A4DA336D6",
+        "website": "https://github.com/KislitsinSergey",
+        "security_contact": "Kislitsin.Sergey@hotmail.com",
+        "details": "Do you need high performance and low fees for optimal staking rewards? Then here I am."
+      },
+      "eots_pk": "e9f74a3c85d7cddbb6f0a07995fea914ac1d9373cc965dff0dc9ab179700730d",
+      "commission": "0.07"
+    },
+    {
+      "description": {
+        "moniker": "Shprota",
+        "identity": "",
+        "website": "",
+        "security_contact": "Piaidaleraspelt@hotmail.com",
+        "details": "I'm professional validator and want to be sure that you have highly qualified provider in your project for community."
+      },
+      "eots_pk": "7bf90e231f2cf083778d35d55bb87096a548fe23aed82199747ca2137f7a68e9",
+      "commission": "0.07"
+    },
+    {
+      "description": {
+        "moniker": "SilverSurfer",
+        "identity": "367B97CCE94F0FCF",
+        "website": "https://slsurfer.click/",
+        "security_contact": "mihalchuk.denis@outlook.com",
+        "details": "Provider, validator and node operator. Privacy and security"
+      },
+      "eots_pk": "80dfafc3bec400e270b0d4221124664535954039b979834f524d87ea6a8c0ffc",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Simply Staking",
+        "identity": "4095165BF57B60BE",
+        "website": "https://simplystaking.com/",
+        "security_contact": "staking@simplystaking.com",
+        "details": "At Simply Staking, we are a globally recognised leader in blockchain infrastructure provision and development, dedicated to the advancement and security of decentralised technologies."
+      },
+      "eots_pk": "03f0aa09112a19685e1514c9fc768a27df953db6abddcb453b96cc3265469af6",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "SnowFall",
+        "identity": "AE7E53FAC7B1CD90",
+        "website": "https://www.snow-fall.io",
+        "security_contact": "contact@snow-fall.io",
+        "details": "Backed by 5+ years of experience, we offer security and stability. Stake now for easy."
+      },
+      "eots_pk": "eff010c66fc56784e708202e49bd875f8b08b8a1a40f0e7638e93ef1366a13d7",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Solv Protocol",
+        "identity": "8E9C1C1E9ADB6512",
+        "website": "https://app.solv.finance",
+        "security_contact": "contact@solv.finance",
+        "details": "Pioneering A Decentralized Bitcoin Reserve with SolvBTC."
+      },
+      "eots_pk": "fa7496f63a857d894aa393767325bf6f84560e9141f4ec54496c50f546f48bfb",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "StakeLab.zone",
+        "identity": "F12B081334CBE0C6",
+        "website": "https://www.stakelab.zone",
+        "security_contact": "security@stakelab.zone",
+        "details": "Grow your assets - app.stakelab.zone/stake/babylon"
+      },
+      "eots_pk": "b7f804dd08fda86549d01aad1da1d05babed6fc48e70fae59e3c7fb38161f414",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "StakeWithUs",
+        "identity": "609F83752053AD57",
+        "website": "https://stakewith.us",
+        "security_contact": "node@stakewith.us",
+        "details": "Secured Staking Made Easy. Put Your Crypto to Work - Hassle Free."
+      },
+      "eots_pk": "513d10a6b689191cdc4ea740a1e8f5a1a508c83198867157008b9c172e911fa0",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Stakecito",
+        "identity": "D16E26E5C8154E17",
+        "website": "https://stakecito.com/",
+        "security_contact": "security@stakecito.de",
+        "details": "Securing & Decentralizing PoS Networks."
+      },
+      "eots_pk": "b7a0bc1270c4691140dd739f2db7917cf281547cafe41a693c5f481ca8fbae8c",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Staked",
+        "identity": "E7BFA6515FB02B3B",
+        "website": "https://staked.us",
+        "security_contact": "devops@staked.us",
+        "details": "Staked is the leading provider of validation technology and services."
+      },
+      "eots_pk": "99cab14570d12633326afede842d3a9db729f671d2fa1b8a46585d3f62395c1c",
+      "commission": "0.10"
+    },
+    {
+      "description": {
+        "moniker": "Staketab",
+        "identity": "72200AE6CB11A0DE",
+        "website": "https://staketab.com",
+        "security_contact": "support@staketab.com",
+        "details": "Professional staking provider offering infrastructure solutions for the Web3 ecosystem."
+      },
+      "eots_pk": "3f642e20468aed388f8f397ca46524548c433e8bb68b348c31e1d66a062ef470",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Stakin",
+        "identity": "83D300CB42D06962",
+        "website": "https://stakin.com",
+        "security_contact": "security@stakin.com",
+        "details": "Leading institutional-grade web3 infrastructure and non-custodial staking service provider. ISO27001 Certified and Audited. Early Babylon Network supporter and Investor."
+      },
+      "eots_pk": "996477cf43980aa37e25620aba62676a8bf975ffedb6c8c89b85df1d31bf14fb",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "StakingCabin",
+        "identity": "C0522DF992B0C407",
+        "website": "https://stakingcabin.com",
+        "security_contact": "richard@stakingcabin.com",
+        "details": "Next generation of the internet by staking assets safely."
+      },
+      "eots_pk": "bea899ea108b5edb9d1f9deec47decd525e862202241c8e551e61b7b2ba1a733",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "SunShine",
+        "identity": "",
+        "website": "https://sun-shine-chain.notion.site/SunShine-6d8d2d41cc3742eabce359130ea211dc?pvs=4",
+        "security_contact": "smetaninalena@hotmail.com",
+        "details": "I'm a passionate blockchain enthusiast and a dedicated node runner. My mission is to share my knowledge and passion with the community. I believe in the power of blockchain to transform industries and empower individuals."
+      },
+      "eots_pk": "af31157146abe1b7a04a65759fcfaf63a18bacc1b6ddc37debcc71f22d2bc608",
+      "commission": "0.07"
+    },
+    {
+      "description": {
+        "moniker": "TLanderon",
+        "identity": "7F793204BA34FF98",
+        "website": "https://github.com/TLanderon",
+        "security_contact": "tlarnewoo@hotmail.com",
+        "details": "Providing highest uptime with lowest fees"
+      },
+      "eots_pk": "571cc03b5eec6a49557a7eed48fd999db7f7b6acf5b9af7f3f99327f49945056",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "TWan",
+        "identity": "E21496CC11E743B9",
+        "website": "https://github.com/TWan777",
+        "security_contact": "belkaletyaga@hotmail.com",
+        "details": "Fast, secure, and efficient validator these the words that perfectly descibe my job"
+      },
+      "eots_pk": "224ba2c5f9878e2bcc6722a9992c956fff0af51e67a385506b24fac0a5e61bc0",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "Thomilx",
+        "identity": "355B66C6326E35A7",
+        "website": "https://thomilx.gitbook.io/thomilx/",
+        "security_contact": "ivanuykolegmy@hotmail.com",
+        "details": "Dedicated self-validator, who is committed to contributing to blockchain's decentralized future."
+      },
+      "eots_pk": "9e0ae18a5f8758665ebabfe584741c9074a904b1902b143d13859388d2e48d33",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Thompson",
+        "identity": "",
+        "website": "https://teletype.in/@pandathompson",
+        "security_contact": "sitanosrati5677s@gmail.com",
+        "details": ""
+      },
+      "eots_pk": "ced500bf830b290192f746c254d09002bdb2403662acc78b119f130afeef5ad3",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "Twaltoner",
+        "identity": "C78594E24D129A4F",
+        "website": "https://v.twaltoner.skin/",
+        "security_contact": "AciessNull@hotmail.com",
+        "details": "Providing best uptime"
+      },
+      "eots_pk": "fce2591b4ae953985e5c2bb392d02a8ea43c233e21e6a583b6c2968cb4502f17",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Upnode",
+        "identity": "D0084E1600CCC9F7",
+        "website": "https://upnode.org",
+        "security_contact": "hello@upnode.org",
+        "details": "Professionally managed institutional grade blockchain infrastructure provider."
+      },
+      "eots_pk": "756c9ab3070b326ce2af216bbd5a4d8fe8c3972a9a8e6048042fd0a105650ddc",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "UtherSunlighter",
+        "identity": "222134AC9038E7FA",
+        "website": "https://docs.uthersun.co",
+        "security_contact": "antiblockator@outlook.com",
+        "details": "security and reliability is the key"
+      },
+      "eots_pk": "ae18e6f84ba0ab4b44428040670f41ba4e97c1002fca11a7ca901cc631282475",
+      "commission": "0.07"
+    },
+    {
+      "description": {
+        "moniker": "Validation Cloud",
+        "identity": "45CB4A44DDA954E351EF52DBAF9B41F5A7572821",
+        "website": "https://validationcloud.io",
+        "security_contact": "security@validationcloud.io",
+        "details": "Validation Cloud is a Web3 platform that delivers elite, high-performance node and staking infrastructure."
+      },
+      "eots_pk": "0b07aef0b971caeb8d677b5fa56547d07ec45be121575f1b94e4a65930bad272",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "ViaBTC",
+        "identity": "",
+        "website": "https://www.viabtc.com/",
+        "security_contact": "support@viabtc.com",
+        "details": "ViaBTC is an innovation-driven blockchain service provider that boasts abundant experience, extensive investments, secure and reliable products, and a global user base"
+      },
+      "eots_pk": "3cb203cd8cffe8bafab08446bd20a28ca56d3efed650d276675f260e1fe80b3e",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Villarael",
+        "identity": "50B2452D41744514",
+        "website": "https://villarael.xyz/",
+        "security_contact": "makanih660@gmail.com",
+        "details": "Pro Nodes&Validators"
+      },
+      "eots_pk": "e112c750f3728c452ccc78c662c9b53d4124c9f536e7cff35f8fa1647dba4e0b",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "WebJoker",
+        "identity": "FFA1B192BC739F68",
+        "website": "https://docs.justjoker.lol/web-joker",
+        "security_contact": "IndexRud@hotmail.com",
+        "details": "Welcome to my Web3 world. You won't get bored here"
+      },
+      "eots_pk": "99ab2d9da4c78426737046026ce6361892521c21261abf93d693141559acf17b",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "WhisperNode",
+        "identity": "C99B3A6836BF0CB8",
+        "website": "https://whispernode.com",
+        "security_contact": "security@whispernode.com",
+        "details": "WhisperNode is a premier web3 infrastructure provider renowned for powering the backbone of blockchain ecosystems with our state-of-the-art validation services, RPC endpoints, and IBC relayers. Our commitment to reliability is showcased through our deployment of robust, geographically dispersed validators ensuring maximal uptime and unparalleled security."
+      },
+      "eots_pk": "abb95ba033f05427672aa4b3b6d591e0dfe7d23b41b47d8215aa503f4ddb2063",
+      "commission": "0.04"
+    },
+    {
+      "description": {
+        "moniker": "Xangle",
+        "identity": "B4036015EC09F392",
+        "website": "https://xangle.io",
+        "security_contact": "validator@crossangle.io",
+        "details": "The largest Web3 market intelligence platform operator in Korea, Xangle provides a comprehensive suite of tools and services designed to support Web3 foundations’ go-to-market strategies in Korea safely under compliance with Korea’s regulatory environment. Since its inception, Xangle has expanded its business by offering information disclosure and evaluation services, gaining extensive experience in distributing information based on transparency and credibility. The company also possesses a deep understanding of, and high level of expertise in, regulatory compliance. By leveraging a vast user base and consolidated data, Xangle supports Web3 foundations with their Go-to-Market strategies in Korea, fostering active, data-driven community building."
+      },
+      "eots_pk": "55649d9864f992b315a16531a23d92951143bf2d390d22689946dcd7556c008f",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Zellic",
+        "identity": "609C091636D1330B",
+        "website": "https://zellic.io/",
+        "security_contact": "security@zellic.io",
+        "details": "The go-to blockchain security firm for top teams, specializing in Cosmos, EVM, ZK, Move (Aptos and Sui). We solve your hardest security problems. \nTwitter: https://twitter.com/zellic_io\nTelegram: t.me/zellic_io"
+      },
+      "eots_pk": "b0f0fbb9e3b818c2d924632ef80e4718145f394f9cdcc0bd9c8820f309db436b",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "A41",
+        "identity": "87D9921253A2A9EB",
+        "website": "https://a41.io",
+        "security_contact": "dev@a41.io",
+        "details": "A41 is a blockchain infrastructure company. We provide staking service on multichain. Stake your token with us now and earn rewards!"
+      },
+      "eots_pk": "c03a5b6703ce87285f13d1202ba8b6317080754c5ab23bae95e5ee9261083b79",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "AltLayer",
+        "identity": "",
+        "website": "https://www.altlayer.io",
+        "security_contact": "security@altresear.ch",
+        "details": "AltLayer is a decentralized protocol that facilitates the launch of native and restaked rollups with both optimistic and zk rollup stacks."
+      },
+      "eots_pk": "ae2f910a7c8d45fa908d4a7e5ce67fd5eb1a5f4390958c90354120b63a7819c8",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "AmberGroup",
+        "identity": "E332787C75C48DC1",
+        "website": "https://www.ambergroup.io/",
+        "security_contact": "blockchain_infra@ambergroup.io",
+        "details": "Amber Group is a leading crypto financial services platform specialized in digital wealth management and crypto-native liquidity solutions"
+      },
+      "eots_pk": "b3a838cbf2e61f2ecadf9f5924710e66dcf8212545884853073fe62c5ff5b949",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "ANTPOOL",
+        "identity": "",
+        "website": "https://www.antpool.com",
+        "security_contact": "support@antpool.com",
+        "details": "Antpool always maintains blockchain security as a world-leading mining pool"
+      },
+      "eots_pk": "706789fc5e936ad200a4c22b3bda97e50376ff269a8947eb872e9b054419348c",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "axol.io",
+        "identity": "FA1EA630E6129D0C",
+        "website": "https://axol.io/",
+        "security_contact": "drew@axol.io",
+        "details": "Axol is empowering institutional staking infrastructure with unrivaled uptime, harnessing self-healing nodes and renewable energy across Latin America. Contact us to stake your bitcoin today."
+      },
+      "eots_pk": "311c550309edab2025b9ee907cfeb0cf7223fefdda5d7752f2abe765d34d11cd",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "bitManna",
+        "identity": "1D8F197850300072",
+        "website": "https://www.bitmanna.com/",
+        "security_contact": "blockchain@bitManna.com",
+        "details": "bitManna contributes redundant nodes, spec'd for performance at cloud scale. Delegators earn rewards with confidence."
+      },
+      "eots_pk": "a09b7d5463f289b6b2db575abcbf9f482c0fa403581ee56651d8d686bf1d493e",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "BlockPI Network",
+        "identity": "FF5ABA14296FBF61",
+        "website": "https://blockpi.io",
+        "security_contact": "info@blockpi.io",
+        "details": "Distributed Multi-Chain Acceleration Layer"
+      },
+      "eots_pk": "5cc73dad46bce77ffc779f7f857cb7f5c9134eaeede3266df2ab31839e889632",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "blockscape",
+        "identity": "C46C8329BB5F48D8",
+        "website": "https://blockscape.network",
+        "security_contact": "info@blockscape.network",
+        "details": "By delegating, you confirm that you are aware of the risk of slashing and that Blockscape Finance AG is not liable for any potential damages to your investment."
+      },
+      "eots_pk": "82332ddabc9e4bfc9017e14bf0b8188d2219ffd26143a1383a42d90b1ab55caa",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "blockshell",
+        "identity": "7D19D161F98C086D",
+        "website": "https://blockshell.com",
+        "security_contact": "info@blockshell.com",
+        "details": "Blockshell empower projects with secure, reliable, and scalable blockchain node solutions."
+      },
+      "eots_pk": "5778d746eb3abf33e1181e71881fcf74fbf07bf27a2f2b2f8bef1eb99be7e660",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "BwareLabs",
+        "identity": "E83A08BEEE7A70BD",
+        "website": "https://bwarelabs.com",
+        "security_contact": "validators@bwarelabs.com",
+        "details": "Guaranteed availability and up-time backed by a professional blockchain infrastructure team."
+      },
+      "eots_pk": "c1528b27ec7c68f12d3eca1ea2e019cd17256afc83dc681c6732f5f6c31cb1c6",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Campbell",
+        "identity": "F49E1AA85896E720",
+        "website": "https://github.com/AndrZHR",
+        "security_contact": "zhrakivskyiandrii@hotmail.com",
+        "details": "Reliability. Speed. Safety"
+      },
+      "eots_pk": "ac0faf6bce7031b8bdff835ff662c9e0f60ba696a918bec4d8d421435b442b3d",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Chorus One",
+        "identity": "00B79D689B7DC1CE",
+        "website": "https://chorus.one",
+        "security_contact": "security@chorus.one",
+        "details": "Secure BBN and shape its future by delegating to Chorus One, a highly secure and stable validator. By delegating, you agree to the terms of service at: https://chorus.one/tos"
+      },
+      "eots_pk": "cef496d86c284f01e9cb293b5993e5e00df2116e4d7d7350d68276859561ae67",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "creeptocat",
+        "identity": "81FE1B083F746187",
+        "website": "https://mau.pocketcat.monster",
+        "security_contact": "brawlerseja@hotmail.com",
+        "details": "Your cute provider"
+      },
+      "eots_pk": "e50ae45fe02878fecf6a702aa6c62f85430555fd3c0438179a00289cb9c7a832",
+      "commission": "0.07"
+    },
+    {
+      "description": {
+        "moniker": "Cubist",
+        "identity": "A56651055B76A453",
+        "website": "https://cubist.dev",
+        "security_contact": "security+babylon-fp@cubist.dev",
+        "details": "Cubist is the creator of CubeSigner, the premier hardware-backed key management infrastructure. CubeSigner gives high-security, low-latency signing for a wide range of Web3 applications including staking, wallets, trading, and more."
+      },
+      "eots_pk": "8e14c575b2cadd5cc0f8584b2dcb98b4c301a53c3cee402a5caf4b4512a1f40a",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "fangdarth",
+        "identity": "",
+        "website": "",
+        "security_contact": "panasyukmaksum@hotmail.com",
+        "details": "Pro-provider:)"
+      },
+      "eots_pk": "4cc632da53c1a76622d1515861b365716fbf87712a1dac374e01071fa15b92b8",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Fiamma",
+        "identity": "75F444F526970D6F",
+        "website": "https://fiammachain.io",
+        "security_contact": "contact@fiammachain.io",
+        "details": "The First ZKP Verification Network Secured by Bitcoin Blockchain"
+      },
+      "eots_pk": "8ab7651c38b03aeaf04545dee23b5964d88852adf77e3941615d34f726229305",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Forbole",
+        "identity": "2861F5EE06627224",
+        "website": "https://forbole.com",
+        "security_contact": "validator@forbole.com",
+        "details": "Forbole is a professional node operator with proven track record running by a group of Bitcoin lovers. We provide enterprise-grade staking infrastructure since 2018."
+      },
+      "eots_pk": "4d2f9c3234961c5310e106600254b95c00d4e3aa80d0a08467c3bd1c40bb7d94",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "GentlemenValidators",
+        "identity": "CCD2E0C1AD90602A",
+        "website": "https://gentlemenvalidators.com",
+        "security_contact": "info@gentlemenvalidators.com",
+        "details": "Checkmate!."
+      },
+      "eots_pk": "33bb950d3dfa51c59b7c50b074c70c2404d0c2c48abb60008cbc8b69d54c73bb",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "GoldenTor",
+        "identity": "B0A3AB06F8140CFF",
+        "website": "https://github.com/GoldenTorrent",
+        "security_contact": "saintroselove@hotmail.com",
+        "details": "Provider for your stake. 100% uptime"
+      },
+      "eots_pk": "f74b8f367f6ee0e7d7e28a1499fd7becec20e1bce2d3ff586aefa3fd8a0ed848",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "gonzales",
+        "identity": "",
+        "website": "https://gonzales.gitbook.io/gonzales/",
+        "security_contact": "hk5692024@gmail.com",
+        "details": "BBN Provider"
+      },
+      "eots_pk": "b58ce1f8833e29ad1244ea9269ff28732d2876fcc3504e594a9387d357f7c08f",
+      "commission": "0.07"
+    },
+    {
+      "description": {
+        "moniker": "gumi",
+        "identity": "33BAF13D389CB79F",
+        "website": "https://gu3.co.jp/en/blockchain/",
+        "security_contact": "gumi_node@gu3.co.jp",
+        "details": "One of Japan's largest game publishers and node providers. As a pioneer of the Japanese crypto ecosystem, it also provides infrastructure for crypto area."
+      },
+      "eots_pk": "d290ede12d35dbff321a4c9f2ea1652c2514b3b0e4c76e19000b9c1467f81858",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "HashKeyCloud",
+        "identity": "CB79CF86DBD56A19",
+        "website": "https://www.hashkey.cloud/",
+        "security_contact": "ops@haskyey.cloud",
+        "details": "Cloud for WEB3 More Than Staking"
+      },
+      "eots_pk": "3a390fa62f5c8975348b0163d4bc59eb879e66cc7d908171202d57776e069ad4",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "ikunkun",
+        "identity": "",
+        "website": "",
+        "security_contact": "zy316161583@gmail.com",
+        "details": "ikun a trainee who has been practicing for two and a half years"
+      },
+      "eots_pk": "3227cda2e47410814688bf66c5178703a97f888f2ea9e6c5bc5ff0bb457ab23a",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Imperator.co",
+        "identity": "0878BA6BE556C132",
+        "website": "https://www.imperator.co",
+        "security_contact": "contact@imperator.co",
+        "details": "Imperator empowers investors and token holders to effortlessly secure blockchain networks through non-custodial staking"
+      },
+      "eots_pk": "e672df73c301e9f040f79460b0f990001af18f1d421d2e6ed0b9e9c566b1414b",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Injective Labs",
+        "identity": "2008DAB643ECF438",
+        "website": "https://injectivelabs.org",
+        "security_contact": "validator@injectivelabs.org",
+        "details": "Injective is a lightning fast interoperable layer one optimized for building unmatched Web3 finance applications. Injective is incubated by Binance and is backed by prominent investors such as Jump Crypto, Pantera and Mark Cuban."
+      },
+      "eots_pk": "e02859d59bad2c011453a295e1f26410a74f4eacda513b2a88f53da7ad230c8f",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "interchain.FM",
+        "identity": "8E92184569CD8E2D",
+        "website": "https://interchain.fm/",
+        "security_contact": "chjangounchained@gmail.com",
+        "details": "Non-custodial high 99.99% uptime validator w/ 100% return for downtime slashing. Run by your favorite Cosmos Radio Station. "
+      },
+      "eots_pk": "4b045c89c29e0536b9270c877f89da368391aaa2adbc91659dbb48593253ca32",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Kiln",
+        "identity": "9B74364A5E526BED",
+        "website": "https://www.kiln.fi/",
+        "security_contact": "security@kiln.fi",
+        "details": "Enterprise-grade staking made easy"
+      },
+      "eots_pk": "053107172a3d5a2715754cd5793efdcf5e54364b855ed2305819e372aa685d76",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "kovtunmykola",
+        "identity": "",
+        "website": "https://github.com/kovtunmykola",
+        "security_contact": "kovtunmykola@hotmail.com",
+        "details": "Your trusted partner X validator in decentralized verification"
+      },
+      "eots_pk": "b9992e2ee0adeb2c57abf334c769d027dc939da6f4313010da2c65e1574681c2",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Liquify",
+        "identity": "005F74E8F7365C38",
+        "website": "https://www.liquify.com/",
+        "security_contact": "contact@liquify.io",
+        "details": "Liquify is a fully bare-metal infrastructure company. Optimized for latency, throughput and uptime. Tailored for institutions"
+      },
+      "eots_pk": "615e9392eda947e85d827f19290c4dc2a5986dca278be4f480820741aa0fb1da",
+      "commission": "0.04"
+    },
+    {
+      "description": {
+        "moniker": "luckypunch",
+        "identity": "",
+        "website": "https://github.com/Lucky-Punch-Nodes",
+        "security_contact": "Quchimshizunero@hotmail.com",
+        "details": "Stake with PRO's"
+      },
+      "eots_pk": "90931a3bbdab2b6378c73d976448dcf60a7ae31c1408652ffffcbd83eb364d7f",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "miles",
+        "identity": "",
+        "website": "https://x.com/Miles082510",
+        "security_contact": "sixmiles127@gmail.com",
+        "details": "build babylon"
+      },
+      "eots_pk": "ed58af4d147f5b5834e70a950e439312459b49e8f0dc705c1671467611f1a805",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Cactus",
+        "identity": "",
+        "website": "https://www.mycactus.com",
+        "security_contact": "msrc@mycactus.com",
+        "details": "Leading Qualified Custodian for Digital Assets"
+      },
+      "eots_pk": "f039a30b58a92fe4aee582b47216a04bd487acb0307f32fe69c3fe0760cd01ca",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "NastyQueen",
+        "identity": "68635FA366C15F2B",
+        "website": "https://nasty-queen.gitbook.io/nastyqueen/",
+        "security_contact": "Korshenko.Anastasia@hotmail.com",
+        "details": "Security provider for web3. PoS validator & provider"
+      },
+      "eots_pk": "37ada3493db0aa609f4df4299d8879f9b1b3c4cccc0487f38ea9f663cf157a19",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Nodes.Guru",
+        "identity": "28B672FCE6BBD562",
+        "website": "https://nodes.guru",
+        "security_contact": "security@nodes.guru",
+        "details": "Guru of non-custodial staking. Professional node running, low fees, best uptime and 24/7 customer support."
+      },
+      "eots_pk": "625cf6468c65028806b518fe78ad8e80c697a266394736b6bb9dd481e238816d",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "OKX Earn",
+        "identity": "5E40FD2A1FCF6FE1",
+        "website": "https://www.okx.com",
+        "security_contact": "earn@okx.com",
+        "details": "OKX Earn serves as a one-stop shop for all the decentralised earning options available on the OKX platform and we are the leading staking service provider for blockchain projects"
+      },
+      "eots_pk": "374601b4c400b31f3aa78dc16b4e4d589c1284118e2476d83f0c39743881032c",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "pSTAKE",
+        "identity": "CCD58C1559B694A8",
+        "website": "https://pstake.finance/",
+        "security_contact": "Hello@pstake.finance",
+        "details": "pSTAKE Finance is a multichain liquid staking protocol, backed by Binance Labs."
+      },
+      "eots_pk": "fc8a5b9930c3383e94bd940890e93cfcf95b2571ad50df8063b7011f120b918a",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "plotei",
+        "identity": "",
+        "website": "https://github.com/Plotei",
+        "security_contact": "savchenkoartemana@hotmail.com",
+        "details": "Plotei Node Operator"
+      },
+      "eots_pk": "ff90dcf8deffe95f6faad7e455ba865c9deb5ce8674b302bd792ffaa96620e4c",
+      "commission": "0.07"
+    },
+    {
+      "description": {
+        "moniker": "P-OPS Team",
+        "identity": "A2B9CAA088770EA6",
+        "website": "https://www.pops.one/",
+        "security_contact": "security@pops.one",
+        "details": "P-OPS TEAM is a decentralized organization providing you with validation and staking services, blockchain consultation, growth acceleration and investment capital for innovative Web 3.0 projects."
+      },
+      "eots_pk": "de7654da6e25df51cd0a56217fcde873723a5bb214e55e4e7cfcc19a635e3d71",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "proofgroup",
+        "identity": "",
+        "website": "https://proofgroup.xyz/",
+        "security_contact": "m3diumrare@proton.me",
+        "details": ""
+      },
+      "eots_pk": "12fe87f124cc169e3fcec9885e2ab3c986e0f46bd60ec290995a1ca03d69d006",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "puckanode",
+        "identity": "08D548A0DAE3FD87",
+        "website": "https://www.puckanode.com/",
+        "security_contact": "puckanode@gmail.com",
+        "details": "BTC is here to stay, Babylon is here to slay"
+      },
+      "eots_pk": "03de19c4f95911486b327e2b4e9a5166ea3b287c8aa07358454c080547ac772f",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "romkah",
+        "identity": "FAB055A5A6E1A9FE",
+        "website": "https://romka-h.notion.site/Romka-h-76559f59f17046c3bf1f076e1aa680f1",
+        "security_contact": "romasamiilenko@hotmail.com",
+        "details": ""
+      },
+      "eots_pk": "f6fbe5636345e5797a6878c30a186edd78202e515bb2b61e0a071b23602573ca",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "rumba25",
+        "identity": "D0D4F2082077ACC8",
+        "website": "https://github.com/rumba25",
+        "security_contact": "samotokabogdanavolod@hotmail.com",
+        "details": "Experienced Web3 Enthusiast"
+      },
+      "eots_pk": "491f4ea78177f0914377fdc7ba4594533e123f1311fb7a15b6197af1a91ab159",
+      "commission": "0.06"
+    },
+    {
+      "description": {
+        "moniker": "SG-1",
+        "identity": "48608633F99D1B60",
+        "website": "https://sg-1.online",
+        "security_contact": "info@sg-1.online",
+        "details": "Explore the Cosmos with SG-1. Your favorite Finality Provider and Validator."
+      },
+      "eots_pk": "9a90cf6fbd249ee0a127843569352a8ade9a985ef0a652b2b58506828a7c85d0",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "silent",
+        "identity": "A47522A5527DB39F",
+        "website": "https://silentvalidator.com",
+        "security_contact": "operation@silentvalidator.com",
+        "details": "Silent Validator leverages robust infrastructure and deep expertise to provide highly reliable validation services, enriches the community and furthers the growth of the ecosystem."
+      },
+      "eots_pk": "c790b603199b5c06e9a2230c798130cdc5ea24f0ef8250383e483ac9ae57b397",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "SpiderPool",
+        "identity": "3F0386D79DCC0AD7",
+        "website": "https://spiderpool.com",
+        "security_contact": "kenway@spiderpool.com",
+        "details": "SpiderPool was founded in 2018 and has accumulated a solid technical foundation in the operation of ETH and BTC mining pools. The technical team has a deep blockchain technology background and has supported currencies such as BTC, ETH, ETC, BSV, BCH, CFX, etc."
+      },
+      "eots_pk": "6f411d5febbea4ce21b05e13d31566b4c2e92b867a3fc190543717ef08c0c125",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Stake&Relax 🦥",
+        "identity": "BD90F7F27099E9E3",
+        "website": "https://linktr.ee/stakeandrelax",
+        "security_contact": "stakeandrelax_validator@proton.me",
+        "details": "StakeandRelax to get Stake🥩&Rolex⌚Twitter:@StakeandRelax"
+      },
+      "eots_pk": "34bd07bb7370a0a26adc5520e62b4f0aa3fd155e750f2f39ecbae87d1ded89ee",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "stakefish",
+        "identity": "stakefish",
+        "website": "https://stake.fish/",
+        "security_contact": "wilson@stake.fish",
+        "details": "stakefish has been operating validators from 2018. We are one of the largest and most trusted validators in the crypto ecosystem. We support 20+ protocols and help stake over  billion worth of assets for both institutions and retail investors."
+      },
+      "eots_pk": "f5669a225dfcc1b257e382c002ad3b651840042ca1efc9123e6398c71dbbe8ab",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Stakeway",
+        "identity": "8950F17AEC66D51C",
+        "website": "https://stakeway.com/",
+        "security_contact": "staking@gateway.fm",
+        "details": "Stakeway by Gateway.fm is a premier staking provider offering Enterprise Grade Infrastructure tailored for customers seeking reliable and secure staking solutions. With a focus on performance and trust, we deliver a robust platform. Our services are designed to optimize staking experience, ensuring seamless operation and maximum returns"
+      },
+      "eots_pk": "e245e8c85759d5410c723b69809c405fedbb2393665a43e44b40752452806555",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "Staking4All",
+        "identity": "12375441A4267DC9",
+        "website": "https://www.staking4all.org/",
+        "security_contact": "info@staking4all.org",
+        "details": "Validator for Proof of Stake blockchains. Delegate to us for a easy staking experience"
+      },
+      "eots_pk": "8277d0e45cadd877f7beec1317f2b5872cd957b810702264b54eaeef97b86ab3",
+      "commission": "0.03"
+    },
+    {
+      "description": {
+        "moniker": "Validatus",
+        "identity": "DEF3590B1DCD96A4",
+        "website": "https://www.validatus.com",
+        "security_contact": "support@validatus.com",
+        "details": "Validatus - verifying blockchain entries on purely Enterprise Linux based systems with regular security audits. Stay safe. Stake with us."
+      },
+      "eots_pk": "9b2b5635e63234e62fb76fd5f3e805e9a3b3309087a240c31a00fee9b9307d74",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "verse2",
+        "identity": "47D8EABCB4F4BF71",
+        "website": "https://verse2.io",
+        "security_contact": "ted@verse2.io",
+        "details": "Starting as a builder, Verse2 has expanded its business to node validators, crypto investors, and advisors for web3 projects, growing its influence in the Asian crypto scene. Verse2 has an outstanding and professional track record in running nodes for Layer 1 Mainnets. The team has been a node operator for major chains both locally and globally."
+      },
+      "eots_pk": "ec59e67621aca987b11d77a1acb488985852ec840843db871bb9a803341fa66d",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "web3btc",
+        "identity": "",
+        "website": "https://static-hk.istillgo.com",
+        "security_contact": "deblinux@qq.com",
+        "details": "A Decentralized Password Manager"
+      },
+      "eots_pk": "2f2ad150b5a0c3616ff438d275750db107b961f9dd783658ac4f79dcbccff98c",
+      "commission": "0.10"
+    },
+    {
+      "description": {
+        "moniker": "web3password",
+        "identity": "",
+        "website": "https://web3password.com",
+        "security_contact": "web3pass.service@gmail.com",
+        "details": "A Decentralized Password Manager"
+      },
+      "eots_pk": "b9d31b16ce2809f696094c9b7e3debccd265bfc49a0d4c00d88fc47012768c01",
+      "commission": "0.10"
+    },
+    {
+      "description": {
+        "moniker": "Wizz",
+        "identity": "46BB2F9C0187EE29",
+        "website": "https://babylon.wizz.cash",
+        "security_contact": "dev@astrox.network",
+        "details": "Make BTC Magical Again!"
+      },
+      "eots_pk": "c3d0ed36a03175727164df74e5a4ef5c05a369951fc9707e8a0eb17fd2dcb9d6",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "ytochkaaa",
+        "identity": "88BEA0F2B935A4BF",
+        "website": "https://yhete.tokyo/",
+        "security_contact": "Bellochaounouo@hotmail.com",
+        "details": "Quack! Quack!"
+      },
+      "eots_pk": "8d7b3ee4aa1501a620f1b48af303cb4c1c2cb915338baafa5df1ed4ab3751402",
+      "commission": "0.05"
+    },
+    {
+      "description": {
+        "moniker": "zonaris",
+        "identity": "CB2A5469006ED319",
+        "website": "https://zonaris.io",
+        "security_contact": "contact@zonaris.com",
+        "details": "Bitcoin staking powered by zonaris' green, institutional-grade, CO2-neutral infrastructure."
+      },
+      "eots_pk": "b4cf2cf2b7b3c1d42b5ed7e2f0811e61474eaae2819698b149635656676bd28c",
+      "commission": "0.05"
+    }
+  ]
+}
