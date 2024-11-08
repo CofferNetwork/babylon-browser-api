@@ -81,7 +81,13 @@ async function bootstrap() {
       return;
     }
 
-    const mapping = await pkAddress.findOne({ taproot: staker_address });
+    const mapping = await pkAddress.findOne({
+      $or: [
+        { taproot: staker_address },
+        { native_segwit_even: staker_address },
+        { native_segwit_odd: staker_address },
+      ],
+    });
 
     if (!mapping) {
       res.json({
