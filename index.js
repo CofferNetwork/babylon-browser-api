@@ -177,6 +177,8 @@ async function bootstrap() {
 
     items.forEach((i) => {
       i.total_delegations = byId[i.eots_pk]?.total_delegations;
+      i.active_tvl = byId[i.eots_pk]?.active_tvl;
+      i.total_tvl = byId[i.eots_pk]?.total_tvl;
     });
 
     res.json({
